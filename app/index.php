@@ -118,9 +118,9 @@ $total_books = $book_data['total_books'];
       button{
     text-decoration: none;
     display: inline-block;
-    padding: 10px 25px;
-    background: #e74c3c;
-    color: var(--text-color);
+    padding: 5px 15px;
+    background: #2980b9;
+    color: white;
     font-size: 20px;
     font-weight:500 ;
     border-radius: 13px;

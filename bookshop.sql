@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Waktu pembuatan: 05 Agu 2024 pada 03.16
+-- Waktu pembuatan: 05 Agu 2024 pada 04.12
 -- Versi server: 10.4.28-MariaDB
 -- Versi PHP: 8.2.4
 
@@ -80,15 +80,7 @@ INSERT INTO `books` (`id`, `title`, `author`, `publication_date`, `publisher`, `
 (35, 'Dilan 1991', 'Pidi Baiq', '2015-01-01', 'Pastek Book', 311, 21, 'uploads/66af92a264a495.38863627.jpg'),
 (36, 'Kisah Pembangkit Motivasi', 'Nurlita Maharani', '2017-02-01', 'Bhuana Ilmu Populer', 183, 3, 'uploads/66b021e4b09fc2.42406719.jpg'),
 (37, 'Si Juki', 'Faza Ibnu Ubaidillah', '2010-10-16', 'erlangga', 500, 3, 'uploads/66b022be315530.81427374.jpg'),
-(38, 'The Song Of Achilles', 'Madeline Miller', '2010-01-01', 'John Murray', 798, 4, 'uploads/66b023874374e6.47415818.jpg'),
-(39, 'Don Quixote', 'Miguel de Cervantes', '1605-01-16', 'Francisco de Robles', 1072, 6, NULL),
-(40, 'One Hundred Years of Solitude', 'Gabriel Garcia Marquez', '1967-05-30', 'Harper & Row', 417, 4, NULL),
-(41, 'The Brothers Karamazov', 'Fyodor Dostoevsky', '1880-01-01', 'The Russian Messenger', 824, 5, NULL),
-(42, 'Mariana Karpov', 'Andrea', '2024-07-16', 'knewknkewn', 23, 3, NULL),
-(43, 'nseej', 'jejfe', '2024-07-09', 'knewknkewn', 234, 3, NULL),
-(66, 'galaksi', 'ty6uy', '1111-11-11', 'jhgju', 1, 3, 'uploads/66ade4bccd9f91.17125344.jpg'),
-(67, 'septihan', 'poppy', '1111-11-11', 'erlangga', 123, 5, 'uploads/66ade78941c0d9.19359277.jpg'),
-(68, 'DIA ANGKASA', 'Nurwina Sari', '2222-02-22', 'jhgju', 234, 21, 'uploads/66af2bef6b1242.92375138.jpg');
+(38, 'The Song Of Achilles', 'Madeline Miller', '2010-01-01', 'John Murray', 798, 4, 'uploads/66b023874374e6.47415818.jpg');
 
 -- --------------------------------------------------------
 

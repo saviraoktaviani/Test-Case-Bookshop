@@ -50,6 +50,7 @@ $result = $conn->query("SELECT * FROM books" . $filter_query);
 
         <form method="GET" id="filterForm" class="filter-form">
         
+
             <label for="category_id">Category:</label>
             <select name="category_id" id="category_id" onchange="document.getElementById('filterForm').submit();">
                 <option value="">All Categories</option>
@@ -125,6 +126,5 @@ if ($result->num_rows > 0) {
 </script>
 
 <a href="../index.php" class="back">Back to Dashboard</a>
-
 </body>
 </html>

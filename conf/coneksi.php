@@ -1,4 +1,4 @@
-<?php 
+<?php
 $host = "localhost";
 $username = "root";
 $password = ""; // pastikan variabel password ditulis dengan benar
@@ -8,7 +8,7 @@ $koneksi = mysqli_connect($host, $username, $password, $database);
 
 if ($koneksi) {
     echo "<script>
-            alert('anda berhasil login sebagai admin');
+            alert('Anda berhasil login sebagai admin');
             window.location.href = '../app/index.php';
           </script>";
 } else {
