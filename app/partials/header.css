@@ -1,0 +1,16 @@
+.nav-link button{
+    text-decoration: none;
+    display: inline-block;
+    padding: 15px 25px;
+    background: linear-gradient(135deg, #e1bac5 0%, #11bc08 0%100%);
+    color: var(--text-color);
+    font-size: 20px;
+    font-weight:500 ;
+     border-radius: 13px;
+}
+
+
+
+.nav-link button{
+    background: linear-gradient(135deg, #4845f4 0%,#e1bac5 100%);    
+}
